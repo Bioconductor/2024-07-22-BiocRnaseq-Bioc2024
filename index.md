@@ -483,3 +483,11 @@ Please check the "Setup" page of
 [the lesson site]({{ site.incubator_lesson_site }}) for instructions to follow
 to obtain the software and data you will need to follow the lesson.
 {% endif %}
+
+<h2 id="sponsor">Sponsors</h2>
+
+<figure>
+  <img src="fig/bioconductor_logo_cmyk.jpg" alt="Bioconductor" style="width:25%">
+</figure>
+
+<hr/>
