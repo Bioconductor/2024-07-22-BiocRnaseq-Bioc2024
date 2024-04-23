@@ -286,9 +286,8 @@ Edit the text to match who can attend the workshop. For instance:
   after payment</b>. We will not be able to refund the registration
   fees.</li>
 
-  <li>To register, please fill out the <TODO: update from 2023 version> <b><a
-  href="https://app.smartsheet.com/b/form/3482d8ac5665404f83cf098e6714f87f">application
-  form</a></b>.</li>
+  <li>To register, please fill out the <b><a
+  href="https://app.smartsheet.com/b/form/f5f9349edb474079a7d37c2b0c496362">application form</a></b>.</li>
 
 </ul>
 
