@@ -245,12 +245,6 @@ Display the contact email address set in the configuration file.
   To learn more about the roles at the workshop (who will be doing what),
   refer to <a href="https://carpentries.org/workshop_faq/#what-are-the-roles-of-everyone-participating-in-a-workshop">our Workshop FAQ</a>.
 </p>
-
-<p class="text-center">	
-  <a href="https://app.smartsheet.com/b/form/3482d8ac5665404f83cf098e6714f87f">
-    <button type="button" class="btn btn-success">Apply for a place</button>
-  </a>
-</p>
 <hr/>
 
 {% comment %}
@@ -282,7 +276,7 @@ Edit the text to match who can attend the workshop. For instance:
 
 <ul>
 
-  <li>Cost: <b>75 USD</b></li>
+  <li>Cost: <b>75 USD</b> (covers cost of workshop and tea/coffee breaks)</li>
 
   <li>Places are limited to 30 participants, on a first-come
   first-serve basis.</li>
@@ -292,8 +286,8 @@ Edit the text to match who can attend the workshop. For instance:
   after payment</b>. We will not be able to refund the registration
   fees.</li>
 
-  <li>To register, please fill out the <b><a
-  href="UPDATE: 2023 version https://app.smartsheet.com/b/form/3482d8ac5665404f83cf098e6714f87f">application
+  <li>To register, please fill out the <TODO: update from 2023 version> <b><a
+  href="https://app.smartsheet.com/b/form/3482d8ac5665404f83cf098e6714f87f">application
   form</a></b>.</li>
 
 </ul>
